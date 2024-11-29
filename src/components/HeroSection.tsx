@@ -39,6 +39,10 @@ function HeroSection() {
             <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
               SENIOR FRONTEND DEVELOPER with Passion for Problem Solving (Web &
               Desktop & App)
+              <br />
+              Growing up with a passion for startups and tech, I am always
+              looking for collaborators and opportunities to work on exciting
+              projects.
             </p>
             {/* <div className="mt-4">
               <Link href="https://www.upwork.com/freelancers/mykolam39?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2F">
