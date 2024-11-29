@@ -5,7 +5,7 @@ function Footer() {
         <div className="mx-16">
           <h2 className="text-white text-lg font-semibold mb-4">About Me</h2>
           <p className="mb-4">
-            👋 Hello there! I am Chao Wang, a seasoned web and mobile
+            👋 Hello there! I am Milos Jovanovic, a seasoned web and mobile
             application developer with over 6 years of hands-on experience in
             crafting intuitive and efficient digital solutions. My passion lies
             in bringing ideas to life through innovative technologies and
@@ -46,7 +46,7 @@ function Footer() {
         </div>
       </div>
       <p className="text-center text-lg pt-8 font-semibold text-white">
-        ⚡© Chao Wang™ ⚡
+        ⚡© Milos Jovanovic™ ⚡
       </p>
     </footer>
   );

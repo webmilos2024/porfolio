@@ -5,18 +5,18 @@ import Image from "next/image";
 
 const content = [
   {
-    title: "Web Developer , ELEKS",
+    title: "Senior Frontend Developer , JobCopilot & GrabJobs",
     description1:
-      "Developed a Robust UI, using React.js and Redux-State Management for 15+ Web-Pages",
+      "Designed and built a fully responsive and user friendly UI using React and Next.js within two months, addressing the company’s negative cash flow challenges",
     description2:
-      "Designed RESTful API in Backend Models.Increased database efficiency with MongoDB and Nodejs by 14 percent",
+      "Developed a JobCopilot web application using WordPress to showcase features, integrate emojis, and attract partners, leading users to the app dashboard",
     description3:
       "Created Node.js routing models for MongoDB and integrated axios, Nodemailer for 7+ custom mailings",
-    techstack: "MERN FullStack, React.js, Redux Express.js, Node.js, MongoDB",
+    techstack: "Next.js, React.js, Redux , Go, MongoDB",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
-        Web Developer , ELEKS
-        <br /> June 2018 - May 2019
+        Senior Frontend Developer , JobCopilot & GrabJobs
+        <br /> June 2022 - Present
       </div>
     ),
   },
@@ -32,7 +32,7 @@ const content = [
     content: (
       <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-white">
         Web&Mobile Engineer , Trinetix
-        <br /> September 2019 - August 2021
+        <br /> September 2019 - August 2022
       </div>
     ),
   },

@@ -19,34 +19,34 @@ function page() {
           <div className="flex items-start bg-gray-800 text-white p-6 rounded-lg shadow-lg max-w-md mx-auto">
             <img
               src="/photo.jpg"
-              alt="Chao Wang"
+              alt="Milos Jovanovic"
               className="w-24 h-24 rounded-full mr-4"
             />
             <div>
               <h2 className="text-2xl font-bold mb-4">Contact Information</h2>
               <div className="mb-2">
                 <span className="font-semibold">Name: </span>
-                <span className="text-blue-400"> Chao Wang</span>
+                <span className="text-blue-400"> Milos Jovanovic</span>
               </div>
               <div className="mb-2">
                 <span className="font-semibold">Email: </span>
                 <a
-                  href="mailto:ChaoWang0097@protonmail.com"
+                  href="mailto:webmilos2024@gmail.com"
                   className="text-blue-400 hover:underline"
                 >
-                  ChaoWang0097@protonmail.com
+                  webmilos2024@gmail.com
                 </a>
               </div>
               <div>
                 <span className="font-semibold">Address:</span>
                 <div className="text-blue-400">
-                  Overijsesteenweg 74
+                  Bruska 89
                   <br />
-                  Tervuren
+                  Beograd
                   <br />
-                  3080
+                  11000
                   <br />
-                  Belgium
+                  Serbia
                 </div>
               </div>
             </div>

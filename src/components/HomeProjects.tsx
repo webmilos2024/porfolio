@@ -4,14 +4,14 @@ import { HeroParallax } from "./ui/hero-parallax";
 
 export const products = [
   {
-    title: "Taskify",
-    link: "https://gomoonbeam.com",
-    thumbnail: "/courses/Taskify.JPG",
+    title: "GrabJobs",
+    link: "https://grabjobs.co",
+    thumbnail: "/courses/grabjobs.JPG",
   },
   {
-    title: "Marked",
-    link: "https://cursor.so",
-    thumbnail: "/courses/marked.JPG",
+    title: "JobCopilot",
+    link: "https://app.jobcopilot.com",
+    thumbnail: "/courses/Jobcopilot.JPG",
   },
   {
     title: "NetflixGPT",
